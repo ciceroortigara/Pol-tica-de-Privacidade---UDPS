@@ -1,18 +1,51 @@
 Política de Privacidade - UDPS
-Última atualização: 11/03/2025
-Esta Política de Privacidade descreve como o aplicativo UDPS (“nós”, “nosso” ou “aplicativo”) trata as informações de usuários (“você”) que utilizam o aplicativo.
-1. Coleta de Dados
-O UDPS foi desenvolvido com o compromisso de preservar a privacidade dos seus usuários. Informamos que:
-•	Não coletamos, armazenamos ou processamos dados pessoais ou informações sensíveis.
-•	O aplicativo não utiliza serviços de terceiros para coleta ou análise de dados dos usuários.
-2. Uso das Informações
-Uma vez que não coletamos dados pessoais, não realizamos qualquer processamento, uso ou compartilhamento de informações referentes aos usuários. Todas as funcionalidades do aplicativo são oferecidas sem a necessidade de coleta de informações que possam identificar você.
+Última atualização: 15 de dezembro de 2024
+
+A sua privacidade é importante para nós. Esta política de privacidade explica como o aplicativo UDPS (Uniformidade de Distribuição de Plantas e Sementes), desenvolvido por Cícero Ortigara, coleta, usa e protege as informações do usuário.
+
+1. Informações que Coletamos e Permissões
+Para funcionar corretamente, o UDPS requer acesso a recursos específicos do seu dispositivo. Não coletamos dados pessoais (como nome, e-mail ou CPF) em servidores externos. O processamento das análises é feito localmente no seu aparelho.
+
+Solicitamos as seguintes permissões:
+
+Câmera: Necessária para capturar fotos das linhas de plantio diretamente pelo aplicativo para realizar a análise de uniformidade.
+
+Armazenamento (Galeria/Arquivos):
+
+Ler: Necessário para que você possa selecionar fotos já existentes na sua galeria para análise.
+
+Escrever: Necessário para salvar relatórios de análise (arquivos .txt) e imagens processadas, permitindo o compartilhamento dos resultados.
+
+2. Como Usamos os Seus Dados
+Os dados coletados (imagens das lavouras e marcações de plantas) são utilizados exclusivamente para:
+
+Calcular métricas agronômicas (população, singulação, CV, falhas, duplas e plantas dominadas).
+
+Gerar relatórios técnicos que o próprio usuário pode exportar.
+
+Todo o processamento de imagem é realizado localmente no dispositivo do usuário. As imagens ou dados das análises não são enviados para nenhum servidor externo de nossa propriedade.
+
 3. Compartilhamento de Dados
-Como não coletamos nenhuma informação, não compartilhamos, vendemos ou disponibilizamos dados de usuários para terceiros, seja para fins comerciais ou de marketing.
-4. Segurança
-Embora não realizemos a coleta de dados, nos comprometemos a manter as melhores práticas de segurança para proteger o funcionamento do aplicativo e assegurar que nenhuma informação inadvertidamente seja exposta.
-5. Alterações nesta Política de Privacidade
-Podemos atualizar esta Política de Privacidade ocasionalmente. Caso haja mudanças significativas que possam afetar os usuários, publicaremos uma notificação dentro do aplicativo ou em nosso site, se aplicável.
-6. Contato
-Se você tiver dúvidas ou precisar de esclarecimentos sobre esta Política de Privacidade, entre em contato através do e-mail: [seuemail@dominio.com].
+O UDPS não compartilha seus dados pessoais com terceiros. O aplicativo possui uma funcionalidade de "Compartilhar", onde o usuário decide voluntariamente enviar o relatório gerado (texto ou imagem) via WhatsApp, E-mail ou outros aplicativos instalados em seu dispositivo. O UDPS apenas facilita essa ação, mas não tem acesso aos contatos ou ao conteúdo após o envio.
+
+4. Serviços de Terceiros
+O aplicativo pode utilizar serviços padrão do ecossistema Android para funcionamento e monitoramento de estabilidade, que podem coletar dados técnicos anônimos (como modelo do aparelho e versão do Android) para diagnóstico de erros (logs de travamento):
+
+Google Play Services
+
+5. Segurança
+Como o aplicativo processa os dados offline e localmente, suas informações estão tão seguras quanto o seu próprio dispositivo. Recomendamos que mantenha o sistema operacional do seu celular atualizado.
+
+6. Seus Direitos (LGPD)
+De acordo com a Lei Geral de Proteção de Dados (LGPD), você tem total controle sobre seus dados. Como não armazenamos seus dados em nuvem, para "excluir" suas informações, basta desinstalar o aplicativo ou limpar os dados de armazenamento do app nas configurações do seu celular.
+
+7. Alterações nesta Política
+Podemos atualizar nossa Política de Privacidade periodicamente. Recomendamos que você revise esta página regularmente para verificar quaisquer alterações. Notificaremos sobre mudanças publicando a nova Política de Privacidade nesta página.
+
+8. Contato
+Se você tiver dúvidas ou sugestões sobre nossa Política de Privacidade, não hesite em nos contatar:
+
+Desenvolvedor: Cícero Ortigara
+
+E-mail: ciceroortigara@hotmail.com
 
